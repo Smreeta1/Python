@@ -1,4 +1,4 @@
 def greet():
     return "Hello, World!"
-def sum(a, b):
+def add(a, b):
     return float(a + b)
