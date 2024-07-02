@@ -32,6 +32,7 @@ The project includes basic functionalities to:
 Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```
 
 ### Clone the Repository
 - git clone https://github.com/Smreeta1/Python.git
