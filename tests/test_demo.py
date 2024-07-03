@@ -2,7 +2,6 @@ import sys
 import os
 import unittest
 
-# Add the parent directory to the sys.path
 # sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
           
 current_dir = os.path.dirname(__file__)                               #returns the directory containing test_demo.py i.e. tests/
