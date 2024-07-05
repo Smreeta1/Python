@@ -1,4 +1,4 @@
-import summ.demo                                                  # Importing the demo module
+import summ                                                 # Importing the demo module
 from summ.demo import add,greet                                       # From demo module,importing specific functions greet() and sum()
 from string_modify.reverse_str import reverse_string        # Importing the reverse_string function from the string_modify.reverse_str module
 
