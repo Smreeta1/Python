@@ -1,5 +1,7 @@
 README.md
 setup.py
+Check/__init__.py
+Check/even_odd.py
 Demo_project.egg-info/PKG-INFO
 Demo_project.egg-info/SOURCES.txt
 Demo_project.egg-info/dependency_links.txt
@@ -9,4 +11,5 @@ string_modify/reverse_str.py
 summ/__init__.py
 summ/demo.py
 tests/test_demo.py
+tests/test_even_odd.py
 tests/test_reverse_str.py
