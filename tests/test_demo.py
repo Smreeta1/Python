@@ -12,7 +12,7 @@ import unittest
 
 
 
-from summ.demo import greet, add 
+from Check.demo import greet, add 
 class TestMyFunctions(unittest.TestCase):
 
     def test_greet(self):
