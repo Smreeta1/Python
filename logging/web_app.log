@@ -1,0 +1,10 @@
+2024-07-12 06:33:01,154 - web_app - DEBUG - Debugging information, useful for diagnosing issues
+2024-07-12 06:33:01,155 - web_app - INFO - Informational message, such as application start/stop
+2024-07-12 06:33:01,155 - web_app - WARNING - Warning message, something unexpected but not critical
+2024-07-12 06:33:01,156 - web_app - ERROR - Error message, an issue that requires attention
+2024-07-12 06:33:01,157 - web_app - CRITICAL - Critical message, a serious error indicating potential failure
+2024-07-12 06:33:01,158 - web_app - INFO - User admin authenticated successfully.
+2024-07-12 06:33:01,158 - web_app - WARNING - Failed authentication attempt for user guest.
+2024-07-12 06:33:01,159 - web_app - INFO - Handling request: home
+2024-07-12 06:33:01,159 - web_app - INFO - Handling request: error
+2024-07-12 06:33:01,160 - web_app - ERROR - Error handling request error: Simulated error!
