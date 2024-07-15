@@ -1,0 +1,13 @@
+2024-07-15 20:06:45,206 - INFO - This is an info message
+2024-07-15 20:06:45,206 - WARNING - This is a warning message
+2024-07-15 20:06:45,206 - ERROR - This is an error message
+2024-07-15 20:06:45,207 - CRITICAL - This is a critical message
+Log file creation test
+2024-07-15 20:57:36,119 - INFO - This is an info message
+2024-07-15 20:57:36,120 - WARNING - This is a warning message
+2024-07-15 20:57:36,120 - ERROR - This is an error message
+2024-07-15 20:57:36,120 - CRITICAL - This is a critical message
+2024-07-15 20:59:14,443 - INFO - This is an info message
+2024-07-15 20:59:14,443 - WARNING - This is a warning message
+2024-07-15 20:59:14,444 - ERROR - This is an error message
+2024-07-15 20:59:14,444 - CRITICAL - This is a critical message
