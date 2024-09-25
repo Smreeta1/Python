@@ -1,0 +1,251 @@
+0,1,2,3
+Section  No.,Nature of  Cyber Crime,Elements of Cyber  Crime,Punishment
+44,"To pirate,  destroy, or alter  the computer  source code","To pirate, beat, or alter  the computer source  code of any computer,  computer program,  computer system, or  computer network  knowingly or with mala  fide intention.","Fine not exceeding two  thousand rupees, or with  imprisonment not excee- ding three years, or with  both depending on the  seriousness of the offence."
+
+0,1,2,3
+45,Unauthorized  access to  computer  materials,"To use the computer  without authorization of  the owner or the person  responsible for such a  computer.  To have access to any  program, information, or  data contrary to such  authorization.","Fine not exceeding two  thousand rupees or with  imprisonment not excee- ding three years, or both."
+46,Damage to any  computer and  information  system,"To destroy, damage,  delete, alter, or disrupt  any information of any  computer source,  diminish the value and  utility of such informa- tion, or affect it  injuriously.  Knowingly and with a  mala fide intention to  cause wrongful loss or  damage","Fine not exceeding two  thousand rupees or with  imprisonment not  exceeding three years, or  both."
+47,Publication of  illegal materials  in electronic  form,"To publish or display any  material in the electronic  media, including  computer, internet which  are prohibited from being  published or displayed;  be contrary to the public  morality or decent  behavior; spread hate or  jealousy against anyone;","Fine not exceeding one  Hundred Thousand  Rupees, or with  imprisonment not  exceeding five years, or  both.  Recidivist Offender: liable  to the punishment for each  time with one-and-one-half"
+
+0,1,2,3
+,,"or jeopardize the  harmonious relations  subsisting among the  peoples of various  castes, tribes, and  communities.",percent of the previous  punishment.
+48,Confidentiality  to divulge,To divulge or cause to  divulge confidentiality to  any unauthorized  person.,"Fine not exceeding ten  Thousand Rupees, or with  the imprisonment not  exceeding two years, or  with both."
+52,To commit  computer fraud,"To create, publish, or  otherwise provide a  digital signature  certificate, or acquire  benefit from the payment  of any bill, the balance  amount of anyone’s  account, inventory, or  ATM card with an  intention to commit  fraud or any other illegal  acts.","Fine not exceeding one  hundred thousand rupees,  or with the imprisonment  not exceeding two years, or  both."
+53,Abetment to  commit a  computer- related offence,"To abet others to  commit an offence  relating to computers,  attempt, or be involved  in a conspiracy to  commit such an  offence.","Fine not exceeding Fifty  Thousand Rupees, or  with the imprisonment  not exceeding six  months, or both  depending on the degree  of the offence."
+
+0,1,2,3
+54,Punishment  to the  Accomplice,To assist others in  committing any  offence under this Act  or acting as an  accomplice.,Half of the punishment  for which the principal  is liable.
+57,Offences  Committed by  Corporate  Body,An act done by a  corporate body is  deemed an offence  under this Act.,"Deemed to have been  committed by a person  responsible as chief for  the operation of the  corporate body at the  time of committing such  an offence.  Director, manager,  secretary, or any other  responsible person of  such a corporate body  may also be held liable if  it is proved that such a  person had the  knowledge of, or gave  the consent for, or  caused by way of  negligence, the offence  under this Act  committed by the  corporate body."
+
+0,1,2
+Fiscal Year,District Police Precinct  (No. of Complaints),Cyber Bureau  (No. of Complaints)
+2067 – 68,2,
+2068 – 69,7,
+2069 – 70,14,
+2070 – 71,35,
+2071 – 72,28,
+2072 – 73,33,
+2073 – 74,25,
+2074 – 75,81,
+2075 – 76,152,357
+2076 – 77,107,2301
+
+0,1,2,3
+Year,Cases Registered,Cases Adjudicated,Cases Appealed
+2064,-,-,-
+2065,-,-,-
+2066,-,-,-
+2067,2,2,1
+2068,6,6,2
+2069,8,7,4
+2070,7,7,4
+2071,38,38,27
+2072,24,24,12
+2073,36,35,16
+
+0,1,2,3
+2074,24,23,5
+2075,61,60,16
+2076,46,46,6
+2077,5249,-,-
+2078,2050,-,-
+Total,325,249,93
+
+0,1,2,3,4,5,6,7,8,9,10,11
+Nature,2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,Total
+Defamation52,1,2,4,4,18,15,15,14,29,19,121
+Blackmailing53,1,1,2,2,11,11,9,8,20,15,80
+Harassment54,,2,2,2,14,10,12,17,23,20,102
+Unauthorized  Access55,,,,1,1,1,,1,2,2,8
+Data leakage56,,,1,,,,,,,1,2
+
+0,1,2,3,4,5,6,7,8,9,10,11
+Hacking57,,,,,1,1,3,,,1,6
+Fraud58,,,,,,2,,,1,2,5
+Against public  morality59,,,,,,1,,,,1,2
+Against  national  Integrity60,,,,,1,,,,,,1
+Unauthorized  Recording61,,,,,1,,,,,,1
+Data theft62,,,1,,,,,,,1,2
+Phishing63,,,1,,,,,,,,1
+
+0,1
+Section,No. of  Cases
+Sec. 44,2
+Sec.45,9
+Sec. 46,2
+Sec. 47,235
+Sec. 52,5
+
+0,1
+Online Platform,Total
+SMS (Direct Messaging)68,36
+Facebook,166
+Viber,4
+E-mail,10
+YouTube,5
+Twitter,1
+Mass media,4
+Website,5
+
+0,1,2,3,4,5,6,7,8,9,10,11
+Gender of  victims  (FY),2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,Total
+Female,1,6,6,6,26,14,20,15,47,37,178
+Male,1,-,1,-,10,4,12,2,11,5,46
+
+0,1,2,3,4,5,6,7,8,9,10,11
+Issue (FY),2067,2068,2069,2070,2071,2072,2073,2074,2075,2076,Total
+Unautho- rized Access,,,,1,1,1,,1,2,2,8
+Data leak,,,1,,,,,,,1,2
+Hacking,,,,,1,1,3,,,1,6
+Fraud,,,,,,2,,,1,2,5
+Phishing,,,1,,,,,,,,1
+
+0,1,2,3
+Year (FY),Cases Adjudicated,Conviction,Acquittal
+2067,2,0,2
+2068,6,6,0
+2069,8,4,4
+2070,7,3,4
+2071,38,28,10
+2072,24,20,4
+2073,36,33,3
+2074,21,20,1
+2075,61,54,7
+2076,46,40,6
+Total Cases,249,208,41
+
+0,1,2,3,4,5,6,7
+Year,No.  imprison- ment,Less  than 15  days,From 15  days to  1 month,From 1  month to  3 months,From 3  months to  6 months,From 6  months  to 1 year,Acquittal
+Total,106,22,38,24,11,7,41
+
+0,1,2,3,4,5
+Year,No Fine,"Up to Rs  15,000","Rs 15,000 to  50,000","Rs 50,000 to 1  lakh",More than 1  lakh
+Total (No.  of Cases),17,91,95,4,1
+
+0,1,2,3,4,5,6
+Year,No  Compensa- tion,"Upto Rs  15,000","Above Rs  15,000 - Upto  Rs 30,000","Above Rs  30,000- Upto  Rs 50,000","Above Rs  50,000 -  Upto Rs  1,00,000",More than  1 lakh
+Total  (No. of  Cases),80,45,35,22,3,1
+
+0,1,2,3,4,5,6,7
+Year/  Duration,Upto 1  month,More than  1 month-  Upto 3  months,More than 3  months-  Upto 6  months,More than  6 months-  Upto 1  year,More than  1 year -  Upto 2  years,More  than 2  years,Total  cases  in a  year
+Total,18,53,85,59,23,3,245
+
+0,1,2,3,4,5,6,7
+Year,No  imprison- ment,Up to  15  days,More  than 15  days Up to  1 month,More than  1 month-  up to 3  months,More than  3 months  to 6  months,More than  6 months  up to 1  year,Acquittal
+Total,96,14,34,21,10,6,41
+
+0,1,2,3,4,5
+Year,No  Fine,"Upto Rs  15,000","More than Rs. 15,000  to less than Rs.  50,000","More Rs. 50,000  to less than 1  lakh",More than 1 lakh
+Total,11,81,93,4,1
+
+0,1,2,3,4,5,6
+Year,No  Compensa -tion,"Upto Rs  15,000","Above Rs  15,000 - Upto  Rs 30,000","Above Rs  30,000- Upto  Rs 50,000","Above Rs  50,000 - Upto  Rs 1,00,000",More than  1 lakh
+Total,80,45,35,22,3,1
+
+0,1,2,3,4,5,6,7
+S.N.,Year,Section,Case Name,Case Number,Conviction/Acquittal,Nature of  Cybercrime,Remarks
+1,2076,47,GoN (FIR of Bidha  Choudhary) v. Kamala  Himal and Priya  Smriti Dhakal,075-C1-0243,"Penalty of 10,000 as  well as compensation  of 25,000",Online  defamation,Posted video on  porn site
+2,2076,47,GoN (Geeta Oli) v.  Laxmi Oli,075-C1-2471,"Compensation of  25,000",Online  defamation,Posted hateful  words on Facebook
+3,2076,47,GoN v. Shambhu  Sunwal,076-C2-0011,"Compensation of  25,000",Blackmail,Sends girl’s naked  pictures to her  father
+4,2076,47,GoN (Shrinkhala  Khatiwada) v. Dhak  Bahadur Karki,076-C2-0091,"Compensation of 5,000",Harassment,Messages via  different social  media platforms
+5,2076,47,GoN (Suchita Basnet)  v. Sameer Karki,073-C2-0024,"Penalty of 15,000 as  well as compensation  of 50,000",Harassment,Vulgar posts and  photos
+6,2076,47,GoN (Manisha Joshi)  v. Rajendra Prasad  Bhatta,075-C1-1774,"One year  imprisonment; with  penalty of 50,000 as  well as compensation  of 1,00,000",Blackmail and  Online  defamation,Send obscene videos  and pictures to girls  family
+
+0,1,2,3,4,5,6,7
+7,2076,47,GoN (Name  undisclosed) v.  Kushsehor nath Jha,075-C1-0954,"One month  imprisonment; with  penalty of 20,000 as  well as compensation  of 25,000",Threats,Threatening  messages on  Facebook
+8,2076,47,GoN (FIR of Kuar Shri  Khatri) v. Dr. Megh  Raj Tiwari,074-C1-0576,"Penalty of 30,000 as  well as compensation  of 40,000",Harassment,Posted vulgar  message on FB
+9,2076,47,GoN v. Hari Prasad  Manandhar,075-C1-0669,"Imprisonment of 40  days with  compensation of  25,000",Fake News,Spread false news  and pictures of  person’s death
+10,2076,,45 + 44  GoN (Himal Tamang)  V. Pramod Dahal,075-C1-0038,"Imprisonment of 25  days with  compensation of  10,000",Destruction of  source code,Destroys IMEI  number of sim  cards
+11,2075,47,GoN (Meena Thapa) V.  Tek bahadur  Biswokarma,074-CR-1592,Acquitted,Blackmail,False prosecution –  case filed under  duress
+12,2075,47,GoN (Bidhya Shahi) V  Shyam Kumar Pahari,074-CR-1822,Imprisonment of 30  days,Online  defamation,Posted vulgar  photos on FB
+13,2075,47,GoN (Anand Niraula)  V Rakesh Kumar Giri,074-CR-0818,"Penalty of 30,000",Harassment,Victim is foreign  citizen
+
+0,1,2,3,4,5,6,7
+14,2075,,47 + 58  GoN (FIR of Shambhu  Dayal Agrawal) v.  Shobha Karki,074-CR-1662,"Imprisonment of 20  days with  compensation of  25,000",Blackmail and  defamation,Records video  illegally then  demands money
+15,2075,47,GoN V. Hari Prasad  Manandhar,074-C1-0639,"Imprisonment of 40  days with penalty of  25,000",False news,Posts dead pic of  Prime Minister
+16,2075,47,GoN (Monica  Shrestha) V Bikram  Malla Thakuri,075-C1-0047,"Imprisonment of 30  days with penalty of  30,000",Fake FB  Identity and  harassment,Repeated offender
+17,2075,47,GoN (Puja KC) V  Roshan Deuja,074-CR-1505,"Imprisonment of 25  days; penalty of 30,000  as well as  compensation of  50,000",Online  defamation,Sex tape posted in  FB
+18,2075,47,GoN (Mina Thapa) V  Sunita G.C.,074-CR-1828,"Imprisonment of 45  days; penalty of 15,000  as well as  compensation of 5,000",Online  defamation,Photoshopped and  posted nude pics
+19,2075,47,GoN (Nirajan  Bahadur) V Jokh  Bahadur Shah (Ujjar),074-CR-1122,Acquitted,Online  defamation,False rumours
+20,2075,47,GoN (Dr. Priya Rimal)  V. Pravantra Kuymar  Goit,074-CR-1593,"Compensation of  10,000",Harassment,Constant calls and  messages for 4  Years
+
+0,1,2,3,4,5,6,7
+21,2075,47,GoN (Swikriti Ghimire)  V Dhundi Raj Basnet,074-CR-0895,"Imprisonment of 20  days; penalty of 10,000  as well as  compensation of 5,000",Harassment,Sends vulgar  messages
+22,2075,47,GoN (Chanda shree)  V. Bhishal Gharti,074-CR-1856,Acquitted,Blackmail and  harassment,Hostile witness and  lack of evidence.
+23,2074,47,GoN (Interpol's FIR) V  Kumud Prasad Shah,074-CR-094,"Imprisonment of 15  days and penalty of  35,000",Threat and  harassment,Victim is Australian
+24,2074,47,GoN (Mina Kumari  Kharel) V Mahesh  Kumar Rana Magar  and others,074-CR-0737,"Penalty of 25,000 as  well as compensation  of 50,000",Online  defamation,Defaming business  organization
+25,2074,47,GoN V Dev Raj  chaulagai and Ranju  Shakya,074-CR-0131,"Imprisonment of 15  days; penalty of 10,000",Online  defamation,Posts vulgar  pictures and words  using fake account
+26,2074,45,GoN (C.I.B) V.  Yogandra Bimali,074-CR-0160,"Penalty of 10,000",Unauthorized  access,Accesses FB  messages during  phone repair
+27,2074,47,GoN (Punam B.K.) V  Saroj B.K. Khadka,074-CR-0469,Acquitted,Online  defamation,Lack of evidence
+28,2074,47,GoN (Pabitra Pun) V  Deepak Lal Shrestha,074-CR-0252,"Imprisonment of six  months; penalty of  20,000 as well as",Online  defamation,Posts nude pictures  on FB
+
+0,1,2,3,4,5,6,7
+,,,,,"compensation of  50,000",,
+29,2074,47,GoN (FIR of Hari Ram  Bhandari) V Pabam  Bi.Ka,073-CR-0569,"Penalty of 25,000 as  well as compensation  of 25,000",Defamation and  harassment,Victim is from New  Zealand
+30,2074,47,GoN V Pratap Malla,073-CR-1480,"Penalty of 5,000",Online  defamation,Posts Defamatory  posts about  President
+31,2073,47,GoN v. Ranjit mishra  and pramod  upadhyaya,071-CR-1343,"Penalty of 25,000 for  Mishra, Pending for  Upadhyay",Blackmail,Blackmail to upload  photos on FB;  Pending because  accused in US
+32,2073,47,GoN V. Pareshwor  Kharel,071-CR-1306,Acquitted,Blackmail,Threat to disclose  confidential  information of  company – No  publication
+33,2073,45,Nepal Army Authorized  Department (FIR) v.  Undisclosed name,072-CR-0764,Acquitted,Hacking and unauthorized  access,Accused is a minor
+34,2073,47,GoN (Prasahant  Shrestha) V Ram  Kumar Shrestha,073-CR-0743,"Penalty of 10,000 with  also compensation of  50,000",Fake news,Spread false  rumours of a death  of a person
+
+0,1,2,3,4,5,6,7
+35,2073,52,GoN (Aditi Shrestha) V  Bikash Kumar Shah,073-CR-0378,Acquitted,Fake identity  and fraud,Forensic lab  disproves  defendant’s  involvement
+36,2073,47,GoN (FIR of CBI) v  Ram Avatar Yadav,072-CR-3226,Acquitted,Online  defamation,Defames Prime  Minister – Lack of  evidence to prove  claim
+37,2073,47,GoN (Homnath  Dharel) v Suresh  Shrestha,072-CR-3538,Acquitted,Defamation,"Posted marriage  video on porn site –  Court only looks at  content, not website"
+38,2073,47,GoN (Sadikshya  Adhikari) V Narayan  Paudel,073-CR-0395,Acquitted,Online  defamation and  harassment,Posted only in  Private Domain
+39,2073,47,GoN (Manila Mali) V  Krishna Uraw,072-CR-0084,"Imprisonment of 24  days; penalty of 5,000  as well as  compensation of  10,000",Harassment,Threats in SMS
+40,2073,47,GoN (Nirmal Kumar  Shrestha) V Prakash  Basukala Dangol,071-CR-1166,Dismissed,Defamation,Convert to  defamation
+41,2073,47,GoN(FIR of Sabina  Thapa) v Subash Kumar,072-CR-3169,Acquiited,Online  defamation,Only personal  messages
+
+0,1,2,3,4,5,6,7
+42,2073,44 + 45  GoN (FIR of Police,report) v. Bikash  Paudel,072-CR-3360,"25 days imprisonment  with penalty of 30,000",Hacking,Government office  website hacked
+43,2073,47,GoN v. Khimanand KC  072-CR-2342,,"30 days imprisonment  with compensation of  one lakh. Also,  codification of any  such electronic devices.",Online  defamation,PM and President  meme
+44,2073,44,Raj Mandhar FIR v.  Prem Bahadur,072-CR-3517,"23 days imprisonment  with compensation of  one lakh. Also,  codification of any  such electronic devices.",Hacking,Hacked Image  Channel website  and merges it with  Viral Khabar.
+45,2072,,44 + 45  GoN (FIR of Ministry  of Health and  Population's letter) v  Prakash Bhatta,071-CR-0075,Acquitted,Unauthorized  Access,"Intention to check  internal security,  not to steal any  confidential  information"
+46,2072,47,GoN (FIR of Deepa  Khadka) v Shyam  Bahadur Sarki,071-CR-1348,"Penalty of 5,000",Online  defamation,Uploads vulgar  photos on FB
+47,2072,45,GoN (FIR of bhupesh  Karki) v Awesh  Gautam,070-CR-2228,"Penalty of 5,000",Unauthorised  access,Using company  email even after  leaving job
+
+0,1,2,3,4,5,6,7
+48,2072,47,GoN (FIR of Savitri  Khadka) v Devendra  Khatri,072-CR-214,"Six months  imprisonment; penalty  of 25,000 as well as  compensation of  50,000",Blackmail and  harassment,Threatening and  vulgar SMS texts
+49,2072,47,GoN (FIR of Pushkar  Chaudhary) v Deepak  Kumar Das,070-CR-1963,Acquitted,Fake ID and  Defamation,"Lack of evidence,  the accused has an  alibi."
+50,2072,52,GoN (FIR of Sushil  Kumar Rao) v Prabin  Karmacharya,070-CR-1810,"Penalty of 25,000 plus  recovery of stolen  amount",Online theft and  fraud,Diverts and steals  money online from  Kantipur Media.
+51,2072,45,GoN (FIR of Police  report) v Raju  Shrestha,071-CR-2039,Acquitted,Fraud,Fraud not covered  by section 45 –  wrong prosecution
+52,2072,45 + 47  GoN (FIR of Police,report) v Bishal G.C  and ors,071-CR-1944,"Penalty of 2,000",Blackmail and  hacking,Hacked into victim’s  account and  blackmailed
+53,2072,47,GoN (FIR of Police  report) v Nikhil  Maharjan,071-CR-1840,"Penalty of 5,000 as well  as compensation of  25,000",Harassment,Vulgar messages  and photos on Viber
+54,2072,47,GoN (FIR of Police  report) v Rahul  Balmiki,072-CR-0086,Acquitted,Blackmail,Only private  conversation
+
+0,1,2,3,4,5,6,7
+55,2072,47,GoN (FIR of Lalit  Kumar Agrawal) v  Biswanath Acharya,071-CR-2071,5 months  imprisonment,Blackmail and  Threat,Sends threatening  emails to the news  network
+56,2071,47,GON V Mukunda  Ghimire,070-CR-1996,Acquitted,Harms national  integrity,Accused changes  the shape of  national flag and  posts online
+57,2071,47,GON (Ganga Kumari  Pun) V Ambraj Dalla  koti,072-Cs-0802,Pending,Fake email and  Online  defamation,Accused not yet  caught
+58,2071,47,GON (SC's FIR) V  Prabhat Kumar Gupta,072-Cs-0802,Acquitted,Unauthorized  filming and  recording,Illegal recording of  conversation – not  covered by Section  47.
+59,2071,47,GoN (Kumari Khanal)  V. Kapil Dev Thapa,070-CR- 0766/182,Acquitted,Threats,Statutory Limitation  crossed
+60,2071,47,GoN (Eliza Shrestha)  V. Saroj Bhuju,070-CR-2053,Acquitted,Harassment  and Defamation,"Lack of evidence,  only suspicion"
+61,2071,,45 + 47  GoN ((Ranju Sharma)  V. Biswas Shrestha,22-39-069- 2667,Acquitted,Hacking and  Defamation,Private domain –  Husband to wife
+62,2071,47,GON(Krishna Mor) V  Ram Kumar Shyangba,071-CR-0421,Acquitted,Fake Id and  Harassment,Inconclusive proof
+63,2071,45 + 47  GoN (Sambhranata,Karki) V Surendra  Raut,070-CR-1623,"Imprisonment of one  year; penalty of 20,000  as well as",Fake Id and  Catfishing,Posing as a girl and  posting vulgar  photos
+
+0,1,2,3,4,5,6,7
+,,,,,"compensation of  40,000",,
+64,2071,47,GoN (Smjhana Mahat)  v. Evan Joshi,070-CR-2000,"Penalty of 30,000 as  well as compensation  of 10,000",Harassment,Posts vulgar  messages
+65,2070,47,Gon (Kalpana Bista) v.  Kabin Karki,070-CR-0340,"Penalty of 10,000",Online  defamation,Published vulgar  pictures and phone  number through  fake account
+66,2070,47,Gon V. Bhawanath  Sapkota,3108/2069  (22-39-069- 31087),Acquitted,Defamation,"Did not post  anything, only liked  a status."
+67,2070,45,GoN (FIR from  Broadlink admin  head) V Subash  Chandra Paudel and  ors.,2675/2075,Acquitted,Unauthorized  access and theft,Information was  available openly –  no intention to steal
+68,2070,47,GoN V. Ravi Kumar  Kesari,1391 /2069,"Penalty of 30,000",Online  defamation,Video published  from cybercafe –  owner arrested
+69,2069,47,GoN (Hima Bhattrai) V  Megh Raj Timalsina,2642/430,"Imprisonment for six  months with penalty of  25,000",Harassment  and Defamation,Posted vulgar  message and  photoshopped  images
+
+0,1,2,3,4,5,6,7
+70,2069,52,GoN V Kirtan  Pokharel,1372/2069,"Imprisonment for 2  months with penalty of  25,000",Fake website  and fraud,Targeting minors in  New Zealand.
+71,2069,45 +46,GoN V Nigele  Johnpogomere and  Jiggy Gaton,39-067-1472,Pending,"Data Theft,  phising and  fake website",Stealing data by  creating fake  website
+72,2069,47,GoN V Raj Rai,2771/2069,Acquitted,Online  defamation,Drugged the victim  and took nude  pictures – later  posted online
+73,2069,47,GoN (Berger and  Nerolac) V Suresh  Sharma Adhikari,2550/2069,Acquitted,Data Leak,Leaked confidential  information of  company after  dismissal
+74,2068,47,GoN V Tej Raj Joshi,2750/2068,"Penalty of 10,000",Harassment,Repeatedly changed  numbers and  harassed girl
+75,2068,47,GoN (Reema Subedi) V  Pradeep K.C.,1341/2068,"Penalty of 21,000",Defamation,Send nudes from  email
+76,2068,47,GoN V Dilli Nath  Subedi,1556/2068,"Penalty of 2,000 as well  as compensation of  15,000",Online  defamation,Drugged and clicked  naked pictures then  posted online
+77,2068,47,GoN (Aarya Gautam)  V Saroj K.C,1809/2069,"Penalty of 20,000 as  well as compensation  of 25,0000",Defamation,Unknowingly taking  pictures and posting  online
+
+0,1,2,3,4,5,6,7
+78,2068,47,GoN V Prabin  Prajapati,2188/2069,"Imprisonment of six  months; penalty of  10,000 as well as  compensation of  10,000",Online  defamation,Posted sex tape  online
+79,2067,47,GoN (Ham Bahadur  Gurung) V Hari Panta,070-CR-0146,Acquitted,Defamation,Convert to  defamation
+80,2067,47,GoN (Shova K.C) V  Bhoj Raj Lingden,39-067-1430,Acquitted,Blackmail and  Defamation,Inconclusive proof –  lack of evidence
+

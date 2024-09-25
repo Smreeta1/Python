@@ -44,7 +44,7 @@ def save_tables_to_csv(tables, continued_tables, output_csv='ncrime.csv'):
         for table in tables:
             if table in written:
                 continue
-            
+            df = table.df
             # Clean cells
             df = df.applymap(clean_cell)
             df = df.dropna(how='all')
