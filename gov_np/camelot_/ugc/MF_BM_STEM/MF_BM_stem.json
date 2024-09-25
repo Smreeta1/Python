@@ -1,0 +1,2218 @@
+[
+    {
+        "Campus Name": "Amrit Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 402,
+        "Male": 380
+    },
+    {
+        "Campus Name": "Amrit Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 48,
+        "Male": 71
+    },
+    {
+        "Campus Name": "Amrit Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 131
+    },
+    {
+        "Campus Name": "Amrit Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 31,
+        "Male": 14
+    },
+    {
+        "Campus Name": "Bhairahawa Campus",
+        "Province": "Lumbini",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 67,
+        "Male": 132
+    },
+    {
+        "Campus Name": "Bhaktapur Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 53,
+        "Male": 12
+    },
+    {
+        "Campus Name": "Birendra Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 687,
+        "Male": 319
+    },
+    {
+        "Campus Name": "Birendra Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 16
+    },
+    {
+        "Campus Name": "Birendra Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 23
+    },
+    {
+        "Campus Name": "Butwal Multiple Campus",
+        "Province": "Lumbini",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 460,
+        "Male": 463
+    },
+    {
+        "Campus Name": "Central Campus Of  Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 223,
+        "Male": 231
+    },
+    {
+        "Campus Name": "Central Campus Of  Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 21,
+        "Male": 13
+    },
+    {
+        "Campus Name": "Degree Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 40,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Degree Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 11
+    },
+    {
+        "Campus Name": "Degree Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 8
+    },
+    {
+        "Campus Name": "Dhankuta Multiple Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 5,
+        "Male": 6
+    },
+    {
+        "Campus Name": "Dhawalagiri Multiple  Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 47,
+        "Male": 20
+    },
+    {
+        "Campus Name": "Mahendra Morang Adarsh  Multiple Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 315,
+        "Male": 386
+    },
+    {
+        "Campus Name": "Mahendra Morang Adarsh  Multiple Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 11,
+        "Male": 9
+    },
+    {
+        "Campus Name": "Mahendra Morang Adarsh  Multiple Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 52
+    },
+    {
+        "Campus Name": "Mahendra Multiple  Campus",
+        "Province": "Lumbini",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 160,
+        "Male": 182
+    },
+    {
+        "Campus Name": "Mahendra Multiple  Campus",
+        "Province": "Lumbini",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 109,
+        "Male": 146
+    },
+    {
+        "Campus Name": "Mechi Multiple Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 200,
+        "Male": 207
+    },
+    {
+        "Campus Name": "Nepal Commerce Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 30
+    },
+    {
+        "Campus Name": "Nepal Commerce Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 34
+    },
+    {
+        "Campus Name": "Nepal Commerce Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 56
+    },
+    {
+        "Campus Name": "Nepal Commerce Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 50
+    },
+    {
+        "Campus Name": "Nepal Commerce Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 67
+    },
+    {
+        "Campus Name": "Padma Kanya Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 199,
+        "Male": 0
+    },
+    {
+        "Campus Name": "Patan Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 182,
+        "Male": 137
+    },
+    {
+        "Campus Name": "Patan Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 17,
+        "Male": 5
+    },
+    {
+        "Campus Name": "Patan Multiple Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 39,
+        "Male": 186
+    },
+    {
+        "Campus Name": "Prithvi Narayan Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 558,
+        "Male": 425
+    },
+    {
+        "Campus Name": "Prithvi Narayan Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 1
+    },
+    {
+        "Campus Name": "Prithvi Narayan Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 2
+    },
+    {
+        "Campus Name": "Prithvi Narayan Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 7,
+        "Male": 44
+    },
+    {
+        "Campus Name": "Prithvi Narayan Campus",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 7
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 52,
+        "Male": 26
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 11,
+        "Male": 41
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 67
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 60
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 18,
+        "Male": 46
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 57
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 35,
+        "Male": 36
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 59
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 7,
+        "Male": 49
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 14,
+        "Male": 12
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 67
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 61
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 11,
+        "Male": 62
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 66
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 7,
+        "Male": 56
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 65
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 66
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 27
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 13,
+        "Male": 54
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 34,
+        "Male": 43
+    },
+    {
+        "Campus Name": "Pulchwok Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 56
+    },
+    {
+        "Campus Name": "Purwanchal Campus",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 8
+    },
+    {
+        "Campus Name": "Purwanchal Campus",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 20
+    },
+    {
+        "Campus Name": "Purwanchal Campus",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 4
+    },
+    {
+        "Campus Name": "Ramsworup Ramsagar  Multiple Campus",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 101,
+        "Male": 222
+    },
+    {
+        "Campus Name": "Ramsworup Ramsagar  Multiple Campus",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 17
+    },
+    {
+        "Campus Name": "S. S. M. Y. Multiple  Campus",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 6,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Shree Mahendra  Bindeshwori Campus",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 43,
+        "Male": 110
+    },
+    {
+        "Campus Name": "Siddhanath ( Science )  Campus",
+        "Province": "Sudurpaschim",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 70,
+        "Male": 197
+    },
+    {
+        "Campus Name": "Thakur Ram Multiple  Campus",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 80,
+        "Male": 187
+    },
+    {
+        "Campus Name": "Thapathali Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 50,
+        "Male": 132
+    },
+    {
+        "Campus Name": "Thapathali Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 59
+    },
+    {
+        "Campus Name": "Thapathali Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 66
+    },
+    {
+        "Campus Name": "Thapathali Campus",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 44
+    },
+    {
+        "Campus Name": "Tribhuvan Multiple Campus",
+        "Province": "Lumbini",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 81,
+        "Male": 89
+    },
+    {
+        "Campus Name": "Tri-Chandra Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 2785,
+        "Male": 3129
+    },
+    {
+        "Campus Name": "Tri-Chandra Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 133,
+        "Male": 112
+    },
+    {
+        "Campus Name": "Tri-Chandra Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 15,
+        "Male": 33
+    },
+    {
+        "Campus Name": "Tri-Chandra Multiple  Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 57,
+        "Male": 22
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 53,
+        "Male": 162
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 39,
+        "Male": 28
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 70,
+        "Male": 37
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 117,
+        "Male": 142
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 22,
+        "Male": 63
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 14,
+        "Male": 15
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 56,
+        "Male": 40
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 24,
+        "Male": 23
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 35
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 49,
+        "Male": 91
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 27
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 27
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 22,
+        "Male": 166
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 15
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 44,
+        "Male": 15
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 75,
+        "Male": 477
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 36,
+        "Male": 129
+    },
+    {
+        "Campus Name": "University Campus",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 69,
+        "Male": 43
+    },
+    {
+        "Campus Name": "Khwopa College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 25,
+        "Male": 4
+    },
+    {
+        "Campus Name": "College Of Applied Business",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 57,
+        "Male": 38
+    },
+    {
+        "Campus Name": "Goldengate International College Bagmati",
+        "Province": null,
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 47,
+        "Male": 13
+    },
+    {
+        "Campus Name": "Goldengate International College Bagmati",
+        "Province": null,
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 23,
+        "Male": 14
+    },
+    {
+        "Campus Name": "Goldengate International College Bagmati",
+        "Province": null,
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 4
+    },
+    {
+        "Campus Name": "Kathmandu College Of Science  & Technology",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 20,
+        "Male": 8
+    },
+    {
+        "Campus Name": "National College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 21,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Nist College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 20,
+        "Male": 5
+    },
+    {
+        "Campus Name": "Regional College Of Science &  Technology",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 22,
+        "Male": 10
+    },
+    {
+        "Campus Name": "St.Xavier\u2019S College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 38,
+        "Male": 16
+    },
+    {
+        "Campus Name": "St.Xavier\u2019S College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 16
+    },
+    {
+        "Campus Name": "Sunsari Technical College",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 3
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 48,
+        "Male": 64
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 52,
+        "Male": 240
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 35,
+        "Male": 254
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 29,
+        "Male": 111
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 18,
+        "Male": 124
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 93,
+        "Male": 181
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 12,
+        "Male": 128
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 21,
+        "Male": 123
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 16,
+        "Male": 91
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 11,
+        "Male": 119
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 99,
+        "Male": 47
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 8,
+        "Male": 48
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 17
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 0
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 3
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 19
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 28
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 9
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 10
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 4
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 33
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 20
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 12
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 13
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 22
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 11
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 3
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 7
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 8
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 21
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 3
+    },
+    {
+        "Campus Name": "School of Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 2
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 103,
+        "Male": 96
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 66,
+        "Male": 32
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 9,
+        "Male": 7
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 27,
+        "Male": 80
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 55,
+        "Male": 246
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 68,
+        "Male": 19
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 121,
+        "Male": 76
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 89,
+        "Male": 57
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 1
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 21,
+        "Male": 17
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 18
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 11
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 28
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 76,
+        "Male": 51
+    },
+    {
+        "Campus Name": "School of Science",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 5
+    },
+    {
+        "Campus Name": "G.P. Koirala College Of  Agriculture & Research Cen...",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 142,
+        "Male": 90
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 17,
+        "Male": 62
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 13,
+        "Male": 30
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 3
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 21
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 12
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 46,
+        "Male": 86
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 16,
+        "Male": 157
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 3,
+        "Male": 3
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Engineering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 23
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Science and Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 5,
+        "Male": 35
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Science and Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 16,
+        "Male": 49
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Science and Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 20
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Science and Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 8
+    },
+    {
+        "Campus Name": "Purbanchal University School  of Science and Technology",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 19
+    },
+    {
+        "Campus Name": "Ilam Community Agriculture  Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 26,
+        "Male": 22
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 39,
+        "Male": 7
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 8,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 0,
+        "Male": 6
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 120,
+        "Male": 42
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 35,
+        "Male": 82
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 3
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 16
+    },
+    {
+        "Campus Name": "Acme Engneering College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 7
+    },
+    {
+        "Campus Name": "Aryan School Of  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 7,
+        "Male": 32
+    },
+    {
+        "Campus Name": "Aryan School Of  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 24,
+        "Male": 84
+    },
+    {
+        "Campus Name": "College Of Applied Food  &Diary Technology",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 36,
+        "Male": 4
+    },
+    {
+        "Campus Name": "College Of Bomedical  Engineering And Applied  Scien...",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 53,
+        "Male": 40
+    },
+    {
+        "Campus Name": "College Of Bomedical  Engineering And Applied  Scien...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 111,
+        "Male": 129
+    },
+    {
+        "Campus Name": "College Of Information  Technology And  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 1,
+        "Male": 8
+    },
+    {
+        "Campus Name": "College Of Information  Technology And  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 4,
+        "Male": 28
+    },
+    {
+        "Campus Name": "College Of Information  Technology And  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 16,
+        "Male": 74
+    },
+    {
+        "Campus Name": "College Of Information  Technology And  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 20,
+        "Male": 101
+    },
+    {
+        "Campus Name": "Eastern College Of  Engeneering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 7,
+        "Male": 2
+    },
+    {
+        "Campus Name": "Eastern College Of  Engeneering",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 2
+    },
+    {
+        "Campus Name": "Eastern College Of  Engeneering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 33,
+        "Male": 58
+    },
+    {
+        "Campus Name": "Eastern College Of  Engeneering",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 2,
+        "Male": 13
+    },
+    {
+        "Campus Name": "GoMendra Multiple  Campus",
+        "Province": "Koshi",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 40,
+        "Male": 149
+    },
+    {
+        "Campus Name": "Hillside College Of  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 3,
+        "Male": 28
+    },
+    {
+        "Campus Name": "Hillside College Of  Engineering",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 12,
+        "Male": 79
+    },
+    {
+        "Campus Name": "Himalayan College Of  Agricultural Sciences And  Tec...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 251,
+        "Male": 175
+    },
+    {
+        "Campus Name": "Himalayan College Of  Agricultural Sciences And  Tec...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 69,
+        "Male": 82
+    },
+    {
+        "Campus Name": "Himalayan College Of  Agricultural Sciences And  Tec...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 25,
+        "Male": 38
+    },
+    {
+        "Campus Name": "Himalayan College Of  Agricultural Sciences And  Tec...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 10
+    },
+    {
+        "Campus Name": "Himalayan College Of  Geomatic Engineering And  Land...",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 17,
+        "Male": 30
+    },
+    {
+        "Campus Name": "Himalayan College Of  Geomatic Engineering And  Land...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 39,
+        "Male": 113
+    },
+    {
+        "Campus Name": "Himalayan Institude  Of Science &  Technologycolleg....",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 7,
+        "Male": 33
+    },
+    {
+        "Campus Name": "Himalayan Institude  Of Science &  Technologycolleg....",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 23
+    },
+    {
+        "Campus Name": "Himalayan Institude  Of Science &  Technologycolleg....",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 27
+    },
+    {
+        "Campus Name": "Himalayan Institude  Of Science &  Technologycolleg....",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 15
+    },
+    {
+        "Campus Name": "Himalayan Whitehouse  int'L College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 7,
+        "Male": 17
+    },
+    {
+        "Campus Name": "Himalayan Whitehouse  int'L College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 60,
+        "Male": 16
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 8,
+        "Male": 26
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 23,
+        "Male": 54
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 21,
+        "Male": 98
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 28,
+        "Male": 127
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 20
+    },
+    {
+        "Campus Name": "Kantipur City College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 12
+    },
+    {
+        "Campus Name": "Kantipur International  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 17,
+        "Male": 5
+    },
+    {
+        "Campus Name": "Kantipur International  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 9,
+        "Male": 11
+    },
+    {
+        "Campus Name": "Kantipur Valley College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 73,
+        "Male": 36
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 33,
+        "Male": 15
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 10,
+        "Male": 38
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 6,
+        "Male": 13
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 15
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 13,
+        "Male": 4
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 125,
+        "Male": 49
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 43,
+        "Male": 142
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 34,
+        "Male": 101
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 18
+    },
+    {
+        "Campus Name": "Khwopa Engineering  College",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 7,
+        "Male": 11
+    },
+    {
+        "Campus Name": "Kist College Of Information  & Technology",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 34,
+        "Male": 157
+    },
+    {
+        "Campus Name": "Nepal Polytechnic Institute",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 14
+    },
+    {
+        "Campus Name": "Nepal Polytechnic Institute",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 1,
+        "Male": 35
+    },
+    {
+        "Campus Name": "Nepal Polytechnic Institute",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 239,
+        "Male": 178
+    },
+    {
+        "Campus Name": "Nepal Polytechnic Institute",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 74,
+        "Male": 162
+    },
+    {
+        "Campus Name": "Saan Internetional College  For Higher Studies",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 97,
+        "Male": 50
+    },
+    {
+        "Campus Name": "Madan Bhandari Memorial  Academy",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 52
+    },
+    {
+        "Campus Name": "School of Development and  Social Engineering Pokha...",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 12,
+        "Male": 14
+    },
+    {
+        "Campus Name": "School of Development and  Social Engineering Pokha...",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 23,
+        "Male": 12
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 2
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 35
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 27
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 8,
+        "Male": 22
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 20
+    },
+    {
+        "Campus Name": "School of Engineering  Pokhara-30 Kaski",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 28
+    },
+    {
+        "Campus Name": "Cosmos College of Management and  Technology",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 121,
+        "Male": 23
+    },
+    {
+        "Campus Name": "Cosmos College of Management and  Technology",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 7,
+        "Male": 20
+    },
+    {
+        "Campus Name": "Gandaki college of engineering and  science",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 3,
+        "Male": 14
+    },
+    {
+        "Campus Name": "Lumbini Engineering Management and  Science College",
+        "Province": "Lumbini",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 32
+    },
+    {
+        "Campus Name": "Lumbini Engineering Management and  Science College",
+        "Province": "Lumbini",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 5,
+        "Male": 52
+    },
+    {
+        "Campus Name": "Nepal College of Information  Technology",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 0,
+        "Male": 23
+    },
+    {
+        "Campus Name": "Nepal College of Information  Technology",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 9,
+        "Male": 59
+    },
+    {
+        "Campus Name": "Nepal College of Information  Technology",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 4,
+        "Male": 40
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 166,
+        "Male": 64
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 10,
+        "Male": 123
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 9,
+        "Male": 113
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 17,
+        "Male": 67
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 20,
+        "Male": 75
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 8
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 13,
+        "Male": 47
+    },
+    {
+        "Campus Name": "Nepal Engineering College (NEC)",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 13,
+        "Male": 45
+    },
+    {
+        "Campus Name": "Oxford College of Engineering and  Management",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 18,
+        "Male": 77
+    },
+    {
+        "Campus Name": "Pokhara Engineering College",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 61,
+        "Male": 44
+    },
+    {
+        "Campus Name": "Pokhara Engineering College",
+        "Province": "Gandaki",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 57
+    },
+    {
+        "Campus Name": "School of Environmental Science and  Management (Sc...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 40,
+        "Male": 30
+    },
+    {
+        "Campus Name": "School of Environmental Science and  Management (Sc...",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 37,
+        "Male": 53
+    },
+    {
+        "Campus Name": "United Technical College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 11,
+        "Male": 48
+    },
+    {
+        "Campus Name": "United Technical College",
+        "Province": "Bagmati",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 54
+    },
+    {
+        "Campus Name": "Central Campus of Engineering",
+        "Province": "Karnali",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 31,
+        "Male": 153
+    },
+    {
+        "Campus Name": "Central Campus of Engineering",
+        "Province": "Karnali",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 15,
+        "Male": 69
+    },
+    {
+        "Campus Name": "Central Campus of Engineering",
+        "Province": "Karnali",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 13,
+        "Male": 85
+    },
+    {
+        "Campus Name": "Central Campus of Engineering",
+        "Province": "Karnali",
+        "Faculty": "Engineering",
+        "Level": "Master",
+        "Female": 1,
+        "Male": 0
+    },
+    {
+        "Campus Name": "Central Campus of Science and  Technology",
+        "Province": "Karnali",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 23,
+        "Male": 77
+    },
+    {
+        "Campus Name": "Central Campus of Science and  Technology",
+        "Province": "Karnali",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 2,
+        "Male": 5
+    },
+    {
+        "Campus Name": "Nepal Open University",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 17,
+        "Male": 102
+    },
+    {
+        "Campus Name": "Nepal Open University",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 10,
+        "Male": 63
+    },
+    {
+        "Campus Name": "Nepal Open University",
+        "Province": "Bagmati",
+        "Faculty": "S&T",
+        "Level": "Master",
+        "Female": 6,
+        "Male": 30
+    },
+    {
+        "Campus Name": "Rajarshi Janak University",
+        "Province": "Madhesh",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 32,
+        "Male": 48
+    },
+    {
+        "Campus Name": "Gandaki University",
+        "Province": "Gandaki",
+        "Faculty": "S&T",
+        "Level": "Bachelor",
+        "Female": 31,
+        "Male": 71
+    },
+    {
+        "Campus Name": "Manmohan Technical University",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 17,
+        "Male": 50
+    },
+    {
+        "Campus Name": "Manmohan Technical University",
+        "Province": "Koshi",
+        "Faculty": "Engineering",
+        "Level": "Bachelor",
+        "Female": 13,
+        "Male": 19
+    }
+]

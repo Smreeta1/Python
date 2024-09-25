@@ -1,0 +1,37 @@
+[
+    {
+        "Province": "Bagmati",
+        "Female": 9570,
+        "Male": 14240
+    },
+    {
+        "Province": "Gandaki",
+        "Female": 820,
+        "Male": 932
+    },
+    {
+        "Province": "Karnali",
+        "Female": 85,
+        "Male": 389
+    },
+    {
+        "Province": "Koshi",
+        "Female": 1254,
+        "Male": 1960
+    },
+    {
+        "Province": "Lumbini",
+        "Female": 888,
+        "Male": 1096
+    },
+    {
+        "Province": "Madhesh",
+        "Female": 266,
+        "Male": 601
+    },
+    {
+        "Province": "Sudurpaschim",
+        "Female": 70,
+        "Male": 197
+    }
+]

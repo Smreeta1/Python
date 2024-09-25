@@ -1,0 +1,16 @@
+[
+    {
+        "Faculty": "Engineering",
+        "Male": "23,986",
+        "Female": "6,230",
+        "Number of Students": "30,216",
+        "Percentage of Students": 5.21
+    },
+    {
+        "Faculty": "S&T",
+        "Male": "28,942",
+        "Female": "17,013",
+        "Number of Students": "45,955",
+        "Percentage of Students": 7.93
+    }
+]

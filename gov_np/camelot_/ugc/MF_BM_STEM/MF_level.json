@@ -1,0 +1,16 @@
+{
+    "Bachelor": [
+        {
+            "Level": "Bachelor",
+            "Female": 10688,
+            "Male": 13898
+        }
+    ],
+    "Master": [
+        {
+            "Level": "Master",
+            "Female": 2336,
+            "Male": 5548
+        }
+    ]
+}
