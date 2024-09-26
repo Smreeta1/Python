@@ -2,8 +2,11 @@ import pdfplumber
 import json
 universities_data = []
 
+def clean_text(text):
+    return text.replace('\n', ' ') if isinstance(text, str) else text
+
 with pdfplumber.open('kpyDIM.pdf') as pdf:
-    for i in range(58, 172):  
+    for i in range(57, 172):  
         print(f"Processing Page {i + 1}...")
         page = pdf.pages[i]
         tables = page.extract_tables()
@@ -31,11 +34,11 @@ with pdfplumber.open('kpyDIM.pdf') as pdf:
             headers = table[0]
             
             for row in table[1:]: 
-                Campus = row[0] if len(row) > 0 else None
-                Province = row[1] if len(row) > 1 else None
-                Faculty = row[2] if len(row) > 2 else None
-                Level = row[3] if len(row) > 3 else None
-                Programname = row[4] if len(row) > 4 else None
+                Campus = clean_text(row[0]) if len(row) > 0 else None
+                Province = clean_text(row[1]) if len(row) > 1 else None
+                Faculty = clean_text(row[2]) if len(row) > 2 else None
+                Level = clean_text(row[3]) if len(row) > 3 else None
+                Programname = clean_text(row[4])if len(row) > 4 else None
                 Female = int(row[5]) if len(row) > 5 and row[5].isdigit() else 0
                 Male = int(row[6]) if len(row) > 6 and row[6].isdigit() else 0
                 Total = int(row[7]) if len(row) > 7 and row[7].isdigit() else 0
